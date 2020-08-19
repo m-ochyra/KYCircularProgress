@@ -64,7 +64,7 @@ class ViewController: UIViewController {
     private func configureFourColorCircularProgress() {
         fourColorCircularProgress = KYCircularProgress(frame: CGRect(x: 20.0, y: halfCircularProgress.frame.height/1.75, width: view.frame.width/3, height: view.frame.width/3))
         fourColorCircularProgress.colors = [UIColor(rgba: 0xA6E39D11), UIColor(rgba: 0xAEC1E355), UIColor(rgba: 0xAEC1E3AA), UIColor(rgba: 0xF3C0ABFF)]
-        fourColorCircularProgress.lineCap = kCALineCapRound
+        fourColorCircularProgress.lineCap = CAShapeLayerLineCap.round.rawValue
         view.addSubview(fourColorCircularProgress)
     }
     

@@ -7,7 +7,7 @@ KYCircularProgress
 )](http://mit-license.org)
 [![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
 )](https://developer.apple.com/iphone/index.action)
-[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat
+[![Language](https://img.shields.io/badge/Swift_4.2-compatible-4BC51D.svg?style=flat
 )](https://developer.apple.com/swift)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/kentya6/KYCircularProgress.svg)](http://isitmaintained.com/project/kentya6/KYCircularProgress "Percentage of issues still open")
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/kentya6/KYCircularProgress.svg)](http://isitmaintained.com/project/kentya6/KYCircularProgress "Average time to resolve an issue")
